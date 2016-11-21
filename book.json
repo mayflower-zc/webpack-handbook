@@ -1,8 +1,0 @@
-{
-  "gitbook": ">=2.0.0",
-  "title": "Test Book",
-  "structure": {
-    "readme": "content/readme.md",
-    "summary": "content/summary.md"
-  }
-}
